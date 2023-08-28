@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/firebase-chat-app/static/css/main.1011a9b4.css",
+    "main.js": "/firebase-chat-app/static/js/main.f2b521d7.js",
+    "index.html": "/firebase-chat-app/index.html",
+    "main.1011a9b4.css.map": "/firebase-chat-app/static/css/main.1011a9b4.css.map",
+    "main.f2b521d7.js.map": "/firebase-chat-app/static/js/main.f2b521d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1011a9b4.css",
+    "static/js/main.f2b521d7.js"
+  ]
+}
